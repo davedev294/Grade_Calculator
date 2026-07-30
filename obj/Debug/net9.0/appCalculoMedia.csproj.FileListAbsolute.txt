@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.AssemblyInfo.cs
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\bin\Debug\net9.0\appCalculoMedia.exe
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\bin\Debug\net9.0\appCalculoMedia.deps.json
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\bin\Debug\net9.0\appCalculoMedia.runtimeconfig.json
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\bin\Debug\net9.0\appCalculoMedia.dll
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\bin\Debug\net9.0\appCalculoMedia.pdb
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.dll
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\refint\appCalculoMedia.dll
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.pdb
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.genruntimeconfig.cache
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\ref\appCalculoMedia.dll
