@@ -12,3 +12,4 @@ C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\ne
 C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.pdb
 C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.genruntimeconfig.cache
 C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\ref\appCalculoMedia.dll
+C:\Users\Usuario\Documents\coding\codingSeco\csharp\appCalculoMedia\obj\Debug\net9.0\appCalculoMedia.sourcelink.json

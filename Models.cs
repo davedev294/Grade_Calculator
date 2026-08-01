@@ -3,6 +3,7 @@ namespace AppCalculoMedia.Models
     // Primero tenemos la asignatura, cada asignatura tiene varios criterios de evaluación, y cada uno de esos criterios tiene actividades con distintos valores.
     // Cada actividad tiene nota y peso dentro del criterio, el criterio luego calcula todas las actividades con sus porcentajes y así tienes la nota final del criterio
     // Luego la asignatura calcula la nota final haciendo lo mismo de antes solo que con los criterios.
+
     public class Asignatura
     {
         public string Nombre { get; set; } = "";
